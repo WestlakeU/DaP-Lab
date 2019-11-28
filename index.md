@@ -12,7 +12,7 @@ The two main tasks of DaP Lab are:
 
 ### People
 
-Hou-Feng Zheng
+![Hou-Feng Zheng](https://github.com/WestlakeU/DaP-Lab/blob/master/2019-02-01%2019.33.49.jpg)
 
 Pei-Kuan Cong
 
