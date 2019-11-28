@@ -1,6 +1,6 @@
-## Welcome to DaP Lab
+## Welcome to DaP Lab at Westlake University
 
-Diseases & Population Geninfo Lab, also known as DaP Lab, 
+**Diseases & Population Geninfo Lab**, also known as **DaP Lab**, 
 
 The two main tasks of DaP Lab are:
 
