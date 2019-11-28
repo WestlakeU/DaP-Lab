@@ -16,7 +16,7 @@ The two main tasks of DaP Lab are:
 
 Pei-Kuan Cong
 
-Wei-Yang Bai
+![Wei-Yang Bai](https://github.com/WestlakeU/DaP-Lab/blob/master/CIMG0004.JPG)
 
 Xiao-Wei Zhu
 
