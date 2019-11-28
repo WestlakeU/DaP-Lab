@@ -11,12 +11,19 @@ The two main tasks of DaP Lab are:
 ### People
 
 Hou-Feng Zheng
+
 Pei-Kuan Cong
+
 Wei-Yang Bai
+
 Xiao-Wei Zhu
+
 Jiang-Wei Xia
+
 Pian-Pian Zhao
+
 Peng-Lin Guan
+
 Si-Rui Gai
 
 
