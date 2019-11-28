@@ -8,7 +8,7 @@ The two main tasks of DaP Lab are:
 
 2, The Genetics and Genomics of Complex Traits, such as Osteoporosis, Peak Bone Mass, Obesity and Vitamin D. The ongoing project is the Westlake BioBank for Chinese (WBBC).
 
- ![Image](/Users/houfeng.zheng/Pictures/20191010LA&Houston/2019-10-11 08.13.02.jpg)
+[Image](/Users/houfeng.zheng/Pictures/20191010LA&Houston/2019-10-11 08.13.02.jpg)
 
 ### People
 
