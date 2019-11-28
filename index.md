@@ -1,4 +1,4 @@
-## Welcome to DaP Lab at Westlake University
+## DaP Lab at Westlake University
 
 **Diseases & Population Geninfo Lab**, also known as **DaP Lab**, 
 
@@ -7,8 +7,6 @@ The two main tasks of DaP Lab are:
 1, Population Genetics: study on Chinese haplotype reference, genetic structure of Chinese population, surname research of Chinese Han population;
 
 2, The Genetics and Genomics of Complex Traits, such as Osteoporosis, Peak Bone Mass, Obesity and Vitamin D. The ongoing project is the Westlake BioBank for Chinese (WBBC).
-
-![Zheng](/WestlakeU/DaP-Lab/2019-02-01 19.33.49.jpg)
 
 ### People
 
