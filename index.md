@@ -1,12 +1,24 @@
 ## Welcome to DaP Lab
 
-Diseases & Population Geninfo Lab, also known as DaP Lab, The two main tasks of DaP Lab are:
+Diseases & Population Geninfo Lab, also known as DaP Lab, 
+
+The two main tasks of DaP Lab are:
 
 1, Population Genetics: study on Chinese haplotype reference, genetic structure of Chinese population, surname research of Chinese Han population;
 
 2, The Genetics and Genomics of Complex Traits, such as Osteoporosis, Peak Bone Mass, Obesity and Vitamin D. The ongoing project is the Westlake BioBank for Chinese (WBBC).
 
 ### People
+
+Hou-Feng Zheng
+Pei-Kuan Cong
+Wei-Yang Bai
+Xiao-Wei Zhu
+Jiang-Wei Xia
+Pian-Pian Zhao
+Peng-Lin Guan
+Si-Rui Gai
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
