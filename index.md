@@ -3,6 +3,7 @@
 Diseases & Population Geninfo Lab, also known as DaP Lab, The two main tasks of DaP Lab are:
 
 1, Population Genetics: study on Chinese haplotype reference, genetic structure of Chinese population, surname research of Chinese Han population;
+
 2, The Genetics and Genomics of Complex Traits, such as Osteoporosis, Peak Bone Mass, Obesity and Vitamin D. The ongoing project is the Westlake BioBank for Chinese (WBBC).
 
 ### People
@@ -35,4 +36,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Publications
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
